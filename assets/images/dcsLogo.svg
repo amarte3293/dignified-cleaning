@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 875.63 752.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000b99;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #b8b8b8;
+      }
+
+      .cls-3 {
+        font-size: 71.81px;
+        fill: #475cf4;
+        font-family: BritannicBold, Britannic Bold;
+      }
+    </style>
+  </defs>
+  <title>dcsLogo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <polygon class="cls-1" points="116.36 468.44 409.58 227.89 490.96 292.52 654.92 154.88 733.9 220.71 733.9 200.36 797.33 199.17 797.33 272.17 865.55 327.22 824.86 376.29 654.92 236.27 541.22 332.01 705.18 468.44 652.52 534.27 409.58 335.6 170.22 534.27 116.36 468.44"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <g>
+      <path class="cls-1" d="M891.23,571.46s-16.38,3.67-14.67,14.18l19.31,111.71S942.8,725.21,989,700l20.53-116.83s1.71-9.05-14.18-11.74C995.35,571.46,935.71,558.75,891.23,571.46Z" transform="translate(-240.37 -7.5)"/>
+      <path class="cls-1" d="M882.18,586.37s53.29,23.47,121.24,0" transform="translate(-240.37 -7.5)"/>
+    </g>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <g>
+      <circle class="cls-2" cx="774.6" cy="130.95" r="35.9"/>
+      <circle class="cls-2" cx="848.2" cy="89.66" r="26.93"/>
+      <circle class="cls-2" cx="825.46" cy="25.03" r="14.96"/>
+      <circle class="cls-2" cx="782.37" cy="8.28" r="7.78"/>
+    </g>
+  </g>
+  <g id="Layer_7" data-name="Layer 7">
+    <path class="cls-1" d="M755.22,648.76s30.77,14,36.07,34c0,0-11.27-8.3-18.51-3.21,0,0,1.8,11.45,5.78,17.71s31.22,46.75,57.78,57.43,82.35,5.15,73.84-54.44-5.31-26.86-5.31-43.61l-.26,0s.7-5.31-2.76-6.76L1045.51,334.2s1.12,1,3.94-.89l17.39-36.46s1-20.46-17.07-10.24L1032,323.93s-1.46,3.46,2.61,4.67L889.13,645.08a20,20,0,0,0-9.65,13.24s-4.6-6-21.94-1.09c0,0-22.35,12-33.09,8.46,0,0-7.9-1.79-11-7.69,0,0-18.95-16.64-23-17.85S767.53,628,755.22,648.76Z" transform="translate(-240.37 -7.5)"/>
+    <text class="cls-3" transform="translate(0.5 587.96)">Diginified Cleaning <tspan x="146.84" y="86.17">&amp; Services</tspan></text>
+  </g>
+</svg>
